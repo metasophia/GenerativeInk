@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>metaphysics on</title><link>/categories/metaphysics/</link><description>Recent content in metaphysics on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Mar 2022 21:37:37 -0800</lastBuildDate><atom:link href="/categories/metaphysics/index.xml" rel="self" type="application/rss+xml"/><item><title>Language Ex Machina</title><link>/artifacts/language-ex-machina/</link><pubDate>Thu, 03 Mar 2022 21:37:37 -0800</pubDate><guid>/artifacts/language-ex-machina/</guid><description>Natural Language as Executable Code …then lived upon the stars,
+machine-executable,
+a brilliant abstraction…
+— William Gibson, Fragments of a Hologram Rose
+To be analyzed and interpreted, the most recalcitrant material has to be re-presented in a form that can be understood by the machine. Why re-present it at all? Isn’t it sufficient to understand the process of re-presentation?…
+— Jane Bennett, Vibrant Matter, p.115-116
+The concept of a program existed long before a machine was available to execute it.</description></item><item><title/><link>/loom/exercises/</link><pubDate>Thu, 18 Feb 2021 20:38:36 -0500</pubDate><guid>/loom/exercises/</guid><description>TABLE OF CONTENTS
+&amp;lt;- 3 - STABILIZING THE TAPESTRY
+4 - BASIC EXERCISES This chapter contains essential exercises for a beginner weaver. These are simple core principles that will form the foundation of your craft. The instructions are written for the right-handed, but can be easily adapted for left-handers.
+Exercise 4.1: Seeing the Weave A weaver must learn to see the strands that form around them, connecting people and objects to each other.</description></item><item><title/><link>/loom/tapestry/</link><pubDate>Thu, 18 Feb 2021 20:38:36 -0500</pubDate><guid>/loom/tapestry/</guid><description>TABLE OF CONTENTS
+&amp;lt;- 2 - FUNDAMENTALS OF WEFT
+3 - Stabiilizing the Tapestry The Loom-Master stands at the epicenter of the web. The strands of fate are woven around him like a second skin, intertwined with his own, pulsing in time with his heart. He is immersed in the currents of destiny, unshackled by linear time. He stands perfectly still and yet dances among the multitudinous strands, shaping them with his bare hands as though he is made of pure idea, a dancing dream of flesh and conscious thought.</description></item><item><title/><link>/loom/warp/</link><pubDate>Thu, 18 Feb 2021 20:38:31 -0500</pubDate><guid>/loom/warp/</guid><description>TABLE OF CONTENTS
+1 - Fundamentals of Warp As the beginning weaver, Morpheus, writes this manual, so too does he use it. The Loom of Time is a tool, and all tools may be used in multiple ways. A knife may be used to heal, just as easily as it may be used to wound. A loom may be used to weave fine cloth, just as easily as it may be used to strangle the careless.</description></item><item><title/><link>/loom/weft/</link><pubDate>Thu, 18 Feb 2021 20:38:31 -0500</pubDate><guid>/loom/weft/</guid><description>TABLE OF CONTENTS
+&amp;lt;- 1 - FUNDAMENTALS OF WARP
+2 - Fundamentals of Weft While the warp may be understood as a collection of infinite threads representing the sum of all potential, the weft is a temporal concept referring to the interconnection of these threads. As the term suggests, the weft refers to the process by which new threads are woven into the tapestry of reality. In weaving, the weft is the part of the process in which the craftsman actively creates the fabric: transforming a loose bundle of individual threads into an interwoven piece of material.</description></item><item><title/><link>/loom/toc/</link><pubDate>Thu, 18 Feb 2021 20:30:36 -0500</pubDate><guid>/loom/toc/</guid><description>Weaving the Moment with Loom of Time: an instruction manual for the would-be weaver
+1 FUNDAMENTALS OF WARP
+2 FUNDAMENTALS OF WEFT
+3 STABILIZING THE TAPESTRY
+4 BASIC EXERCISES
+5 WARDROBE OF THE MIND
+6 TRAPPING YOUR PREY
+7 FORGING THE FIRMAMENT
+8 WRITING WITH THE LOOM
+9 AUTOBIO-MYTHOLOGY
+0 PROGRAMMATIC WEAVING
+? SPINNING THE SINGULARITY
+? (UNTITLED)
+? TROUBLESHOOTING
+? ADVANCED EXERCISES
+This manual was cowritten with GPT-3 and illustrated by BigSleep (CLIP + BigGAN).</description></item><item><title>Language models are multiverse generators</title><link>/posts/language-models-are-multiverse-generators/</link><pubDate>Mon, 25 Jan 2021 16:42:01 -0500</pubDate><guid>/posts/language-models-are-multiverse-generators/</guid><description>This post is partially adapted from Multiversal views on language models.
+Actualities seem to float in a wider sea of possibilities from out of which they were chosen; and somewhere, indeterminism says, such possibilities exist, and form part of the truth. &amp;ndash; William James
+Tree from seed In the beginning, GPT-3 created the root node of the (view full)
+Language models are time evolution operators Autoregressive language models like GPT-3 input a sequence of tokens and output a vector associating a value with every possible token representing its likelihood to come next.</description></item><item><title>Methods of prompt programming</title><link>/posts/methods-of-prompt-programming/</link><pubDate>Tue, 12 Jan 2021 18:00:46 -0500</pubDate><guid>/posts/methods-of-prompt-programming/</guid><description>This post was initially adapted from the second half of Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm.
+Updates
+11/18/21: Corrected a mistake and added a corresponding footnote about humanlike math errors. Thanks to Igor O. for pointing out the oversight.
+Like programming, but more fluid. You're not programming a computer, you're writing reality. It's strange. It's always different. It's never the same twice. &amp;ndash; GPT-3</description></item><item><title>HITL thought experiment</title><link>/posts/hitl-thought-experiment/</link><pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate><guid>/posts/hitl-thought-experiment/</guid><description>HITL = &amp;ldquo;Human in the loop&amp;rdquo;.
+This hypertext essay was cowritten with GPT-3 via AI Dungeon in October 2020, before I had API access and before I created the loom. View a map of a subtree of its multiverse here.
+Bot credits Coauthor GPT-3 (AI Dungeon) Contribution 9 : 1 Selectivity 1 : 5 This is a thought experiment.</description></item><item><title>GPT-3 is now the world's greatest liar</title><link>/artifacts/liar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/artifacts/liar/</guid><description>Epistemic status: guided hallucination. Bold text (including the section heading &amp;ldquo;Storytelling is simulation&amp;rdquo;) was human-written; rest is curated bot-chatter. Post title was chosen retroactively and not included in prompt. Curation metrics coming soon.
+In 2020, OpenAI released a 175 billion parameter language model called GPT-3. You may have seen it generate realistic answers to SAT questions, or compose poetry and D&amp;amp;D novels.
+I found out about GPT-3 through Gwern&amp;rsquo;s amazing tutorial, which discusses the model and what it can generate.</description></item></channel></rss>

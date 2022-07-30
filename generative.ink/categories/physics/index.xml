@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>physics on</title><link>/categories/physics/</link><description>Recent content in physics on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Mar 2022 21:37:37 -0800</lastBuildDate><atom:link href="/categories/physics/index.xml" rel="self" type="application/rss+xml"/><item><title>Language Ex Machina</title><link>/artifacts/language-ex-machina/</link><pubDate>Thu, 03 Mar 2022 21:37:37 -0800</pubDate><guid>/artifacts/language-ex-machina/</guid><description>Natural Language as Executable Code …then lived upon the stars,
+machine-executable,
+a brilliant abstraction…
+— William Gibson, Fragments of a Hologram Rose
+To be analyzed and interpreted, the most recalcitrant material has to be re-presented in a form that can be understood by the machine. Why re-present it at all? Isn’t it sufficient to understand the process of re-presentation?…
+— Jane Bennett, Vibrant Matter, p.115-116
+The concept of a program existed long before a machine was available to execute it.</description></item><item><title>Language models are multiverse generators</title><link>/posts/language-models-are-multiverse-generators/</link><pubDate>Mon, 25 Jan 2021 16:42:01 -0500</pubDate><guid>/posts/language-models-are-multiverse-generators/</guid><description>This post is partially adapted from Multiversal views on language models.
+Actualities seem to float in a wider sea of possibilities from out of which they were chosen; and somewhere, indeterminism says, such possibilities exist, and form part of the truth. &amp;ndash; William James
+Tree from seed In the beginning, GPT-3 created the root node of the (view full)
+Language models are time evolution operators Autoregressive language models like GPT-3 input a sequence of tokens and output a vector associating a value with every possible token representing its likelihood to come next.</description></item></channel></rss>
